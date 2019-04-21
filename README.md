@@ -16,7 +16,12 @@ height="100px"/>
 <img 
 src="https://github.com/cusey/ImageForWiki/blob/master/mongodb/create.PNG" 
 alt="create" 
-height="250px"/>  
+height="250px"/> 
+
+<img 
+src="https://github.com/cusey/ImageForWiki/blob/master/mongodb/create_mongdb.PNG" 
+alt="create_mongdb" 
+height="250px"/> 
 
 
 ## Authors
